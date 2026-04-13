@@ -39,7 +39,7 @@ Asegúrate de tener instalados los siguientes programas antes de iniciar el proy
 1. **Clonar el repositorio**:
 
    ```bash
-   git clone https://github.com/shadowxz972/gestor-de-inventario-para-librerias.git
+   git clone https://github.com/tzSh4dowxZ/gestor-de-inventario-para-librerias.git
    cd gestor-de-inventario-para-librerias
    ```
 
